@@ -1,12 +1,12 @@
 {
   "name": "statebot",
   "version": "0.1.0",
-  "description": "A deterministic state manager for SvelteKit leveraging LLMs",
+  "description": "A deterministic state manager for SvelteKit leveraging LLMs - has connectors for Claude, ChatGPT, and Gemini. Complete overkill, but fun.",
   "author": "https://xbg.solutions",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/statebot.git"
+    "url": "https://github.com/benjaminsfoley/stateBot.git"
   },
   "keywords": [
     "svelte",
